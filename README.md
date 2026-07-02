@@ -37,4 +37,8 @@ Run the application from your terminal: streamlit run app.py
 
 
 ---------------
-if you Looking for GPW historical CSV data (2020–present)? Email me for a quote on the full market or specific companies.
+
+
+# 📬 Custom Data & Contact
+
+If you require historical CSV data for all companies listed on the Warsaw Stock Exchange (GPW), or specific tickers, from 2020 to the present, please send me an email for a custom quote: **[mbd.boox@gmail.com]**
