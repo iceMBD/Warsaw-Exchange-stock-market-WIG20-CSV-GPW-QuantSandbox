@@ -32,3 +32,6 @@ Format csv:Here is how those fields map out:
 To Run the Application
 Install dependencies: pip install streamlit pandas numpy plotly
 Run the application from your terminal: streamlit run app.py
+
+
+if you Looking for GPW historical CSV data (2020–present)? Email me for a quote on the full market or specific companies.
