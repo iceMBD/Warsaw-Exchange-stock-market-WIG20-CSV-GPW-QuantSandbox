@@ -34,6 +34,11 @@ Install dependencies: pip install streamlit pandas numpy plotly
 Run the application from your terminal: streamlit run app.py
 
 
+
+<img width="1875" height="901" alt="image" src="https://github.com/user-attachments/assets/63a7750b-724e-4f0f-8cd3-972735f43b57" />
+
+
+
 ---------------
 
 
